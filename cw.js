@@ -1,4 +1,4 @@
-
+// !! : use selectedElement.innerText to get the text of an element 
 
 // cw front end selectors
 
